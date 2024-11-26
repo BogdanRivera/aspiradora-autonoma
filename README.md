@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/86e30f4b-46f2-4961-9c8d-e2c372fb870f" width = 150px height = 100px  alt="Project logo">
+  <img src = "https://github.com/user-attachments/assets/86e30f4b-46f2-4961-9c8d-e2c372fb870f" width = 600px height = 550px  alt="Project logo">
 </p>
 
    <p align="center">
