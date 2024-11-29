@@ -1,4 +1,4 @@
-<h1 align="center"> Search for the vacuum cleaner 🧹</h1>
+<h1 align="center"> Autonomous vacuum cleaner 🧹</h1>
 
 
 <p align="center">
